@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+[![](https://visitcount.itsvg.in/api?id=gargavi-oss&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 <!---
 gargavi-oss/gargavi-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
