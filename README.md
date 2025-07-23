@@ -33,8 +33,8 @@
 
 <br><br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargavi-oss&show_icons=true&locale=en&layout=compact" alt="gargavi-oss" /></p>
 
-<br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gargavi-oss&show_icons=true&locale=en" alt="gargavi-oss" /></p>
+<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gargavi-oss&show_icons=true&locale=en" alt="gargavi-oss" /></p>
 
-<br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargavi-oss&" alt="gargavi-oss" /></p>
+
 
 
