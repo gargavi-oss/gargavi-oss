@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Passionate projects**
 
-- 👨‍💻 All of my projects are available at [https://gargavi-oss.space//](gargavi-oss.space/)
+- 👨‍💻 All of my projects are available at [https://gargavi-oss.space](gargavi-oss.space/)
 
 - 💬 Ask me about **react,javascript,typescript**
 
